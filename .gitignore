@@ -39,3 +39,5 @@ target/*
 .DS_Store
 screenshots/*
 logs/*
+.idea
+target
