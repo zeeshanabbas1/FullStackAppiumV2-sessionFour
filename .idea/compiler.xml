@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AnroidFrameworkV2-sessionFour" />
+        <module name="FullStackAppiumV2-sessionFour" />
         <module name="AnroidFrameworkV2 -sessionFour" />
         <module name="AnroidFrameworkV2-Session-04" />
       </profile>
