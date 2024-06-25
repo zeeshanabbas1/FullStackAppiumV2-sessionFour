@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+/target
+/.idea
 
 ### Eclipse ###
 .apt_generated
@@ -37,7 +39,5 @@ target/*
 
 ### Mac OS ###
 .DS_Store
-screenshots/*
-logs/*
 .idea
 target
